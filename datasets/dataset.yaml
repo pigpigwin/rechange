@@ -1,7 +1,0 @@
-path: .
-train: images
-val: images
-test: 
-
-names:
-  0:jingti
